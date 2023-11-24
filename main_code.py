@@ -24,7 +24,7 @@ plt.title("Correlation Heatmap")
 plt.show()
 
 # Feature engineering and data preprocessing steps
-# Add your feature engineering and data preprocessing code here
+# Since data was not much complex so haven't used but could use for complex dataset
 # Data preprocessing
 # Drop irrelevant columns, handle missing values, and perform one-hot encoding
 df = df.drop(['Car_Name'], axis=1)  # Drop irrelevant columns
